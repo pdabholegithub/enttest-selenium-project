@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="entpractice.entpractice.AppTest"/>
+      <class name="ent_test.test_Watch_Demo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
