@@ -28,7 +28,7 @@ Browser Configuration:
 The project uses a config.properties file in the src/test/resources directory for configuration settings.
 **Example config.properties:**
 browser=chrome
-baseUrl=https://www.example.com
+baseUrl=https://www.entrata.com/c
 driverPath=path/to/chromedriver
 **TestNG Suite Configuration:**
 Test cases are defined in the testng.xml file located in the root directory.
